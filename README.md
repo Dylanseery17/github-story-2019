@@ -6,11 +6,19 @@
 - [Chapter Two](https://dylanseery17.github.io/github-story-2019/ChapterTwo.html)
 - [Chapter Three](https://dylanseery17.github.io/github-story-2019/ChapterThree.html)
 ## Change Logs
-- Releases on Mar 19, 2019
-    1. Chapter One Release [View Release](https://github.com/Dylanseery17/github-story-2019/releases/tag/v1)
+- Releases on Mar 27, 2019
+    - Chapter Two Release  [View Release](https://github.com/Dylanseery17/github-story-2019/releases/tag/v2)
 
-- Commits on Mar 19, 2019
+- Commits on Mar 27, 2019
+    1. Creation of chapter three [View Commit](https://github.com/Dylanseery17/github-story-2019/tree/6ae6bc156193a76af18672f226cd96c782cae99b)
+
+- Releases on Mar 20, 2019
+    - Chapter One Release [View Release](https://github.com/Dylanseery17/github-story-2019/releases/tag/v1)
+
+- Commits on Mar 20, 2019
     1. Creation of Chapter 2 plus link for git button [View Commit](https://github.com/Dylanseery17/github-story-2019/tree/0d8ce83b269ff0c8dea70b83fb3829a32fe916ed)
+    2. Chapter 2 draft completed Readme.md updated with change logs for comm… [View Commit](https://github.com/Dylanseery17/github-story-2019/tree/469a5d6e1e065c7e93984110cca43ad04402792b)
+    3. Trying to fix issue with ./idea [View Commit](https://github.com/Dylanseery17/github-story-2019/tree/ae28d3dd49ae39c2311bc472a6dbd927d39be7e8)
 
 - Commits on Mar 18, 2019
     1. Chapter One Draft completed [View Commit](https://github.com/Dylanseery17/github-story-2019/tree/5653c7323b3ab7d3aeebd491d4d63d59d042dd5a)
