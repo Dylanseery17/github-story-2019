@@ -8,13 +8,13 @@
 - [Chapter Three](https://dylanseery17.github.io/github-story-2019/ChapterThree.html)
 
 ## Issues
-- Issue Two  [View Issue](https://github.com/Dylanseery17/github-story-2019/issues/3)
+- Issue Three  [View Issue](https://github.com/Dylanseery17/github-story-2019/issues/3)
 - Issue Two  [View Issue](https://github.com/Dylanseery17/github-story-2019/issues/2)
 - Issue One  [View Issue](https://github.com/Dylanseery17/github-story-2019/issues/1)
 
 
 ## Release
-- Chapter Two Release  [View Release](https://github.com/Dylanseery17/github-story-2019/releases/tag/v3)
+- Chapter Three Release  [View Release](https://github.com/Dylanseery17/github-story-2019/releases/tag/v3)
 - Chapter Two Release  [View Release](https://github.com/Dylanseery17/github-story-2019/releases/tag/v2)
 - Chapter One Release  [View Release](https://github.com/Dylanseery17/github-story-2019/releases/tag/v1)
 
