@@ -1,10 +1,25 @@
 # github-story-2019 :closed_book:
 ## Shifting Seasons By Dylan Seery
 - [Overview](https://dylanseery17.github.io/github-story-2019/)
+
 ## Chapters
 - [Chapter One](https://dylanseery17.github.io/github-story-2019/ChapterOne.html)
 - [Chapter Two](https://dylanseery17.github.io/github-story-2019/ChapterTwo.html)
 - [Chapter Three](https://dylanseery17.github.io/github-story-2019/ChapterThree.html)
+
+## Issues
+- Issue Two  [View Issue](https://github.com/Dylanseery17/github-story-2019/issues/2)
+- Issue One  [View Issue](https://github.com/Dylanseery17/github-story-2019/issues/1)
+
+
+## Release
+- Chapter Two Release  [View Release](https://github.com/Dylanseery17/github-story-2019/releases/tag/v2)
+- Chapter One Release  [View Release](https://github.com/Dylanseery17/github-story-2019/releases/tag/v1)
+
+## Screenshots
+
+![alt text](https://i.makeagif.com/media/3-28-2019/rptEbZ.gif)
+
 ## Change Logs
 - Releases on Mar 27, 2019
     - Chapter Two Release  [View Release](https://github.com/Dylanseery17/github-story-2019/releases/tag/v2)
